@@ -40,7 +40,8 @@ The portfolio is designed to grow with me — I update it as I learn new technol
 ### HTML & CSS Projects
 - **Landing Page**  
   A responsive landing page built using pure HTML and CSS.
-
+- **E-commerce UI**
+-   A responsive e-commerce page built using pure HTML and CSS.
 More projects will be added soon.
 
 ---
